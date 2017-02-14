@@ -1,0 +1,19 @@
+{
+  "name": "vooriko-md",
+  "version": "1.0.0",
+  "description": "Just a litle way to add material design to nodejs projects",
+  "main": "vooriko-md.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Voricles/vooriko-md.git"
+  },
+  "author": "Victor Oriko <vooriko@gmail.com> (http://voricles.co.ke)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Voricles/vooriko-md/issues"
+  },
+  "homepage": "https://github.com/Voricles/vooriko-md#readme"
+}
